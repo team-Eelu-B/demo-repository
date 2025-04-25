@@ -62,8 +62,6 @@
 
 ## 💡 موارد مساعدة
 - [Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/)
-- [Head First Java (PDF)](https://example.com)
-- [قناة يوتيوب مقترحة](https://youtube.com/example)
 
 ## 🛠️ المشروع النهائي
 سيقوم كل عضو بتنفيذ:
@@ -80,6 +78,6 @@ public class FinalProject {
 |-----------------|-----------------------|
 | أسئلة فورية     | Telegram Group        |
 | تسليم واجبات    | GitHub Classroom      |
-| اجتماعات أسبوعية| Zoom (كل يوم سبت 8PM) |
+| اجتماعات أسبوعية| Zoom (كل يوم خميس 8PM) |
 
 ```
